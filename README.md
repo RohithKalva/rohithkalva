@@ -1,10 +1,11 @@
-### Hi there 👋, Rohith Kalva
-#### Web Development
+# Rohith Kalva
 I'm Rohith , a passionate web developer from India. I really enjoy learning languages and frameworks like java and react.
 
-Skills:  REACT / JS / HTML / CSS / Java
+## Skills
+* Java
+* HTML, CSS, JavaScript
+* Python
 
-- 🔭 I’m currently working on this page.
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RohithKalva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/urstrulyrohith_______/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@urstrulyrohith_) 
 
 
